@@ -8,7 +8,8 @@ Below is a selection of real-world platforms and applications I’ve helped desi
 
 ## 🔶 1. XReco — XR Asset Management & AI-Assisted Search
 
-A Horizon Europe platform for managing and processing 3D/XR content. I built the main web app and integrated backend APIs for upload workflows, similarity search, AI tagging, 3D reconstruction services, and marketplace/licensing flows.
+A web-based platform for managing, processing and exploring 3D/XR content.  
+I developed the main application of the project and integrated backend services supporting upload workflows, multimodal similarity search, AI-generated metadata, 3D reconstruction and marketplace/licensing processes.
 
 **Tech Stack:** Next.js · React · TypeScript
 
@@ -17,7 +18,9 @@ A Horizon Europe platform for managing and processing 3D/XR content. I built the
 ---
 
 ## 🔶 2. CinEd — Multilingual Film-Education Platform (3,000+ users)
-A multilingual cinema-education platform for schools across Europe. I implemented new features, led the user migration from the old system, added localisation, and maintained the platform over several years.
+
+A multilingual cinema-education platform used by schools across Europe.  
+I implemented new features, migrated the entire user base from the legacy platform, added localisation, and maintained the system over several years. Website: https://cined.eu/
 
 **Tech Stack:** React · Node.js · Strapi · MongoDB
 
@@ -27,7 +30,12 @@ A multilingual cinema-education platform for schools across Europe. I implemente
 
 ## 🔶 3. TRUE — School Newspaper CMS (200+ schools, 1,300+ users)
 
-A custom CMS used daily by students and teachers in 200+ schools across Portugal. I contributed as full-stack developer and technical coordinator, delivering editorial tools, dashboards, user workflows, and ongoing improvements.
+A custom, easy-to-use CMS used daily by students and teachers in more than 200 schools in Portugal.  
+I contributed as a full-stack developer and technical coordinator, delivering editorial tools, dashboards, user workflows, and continuous improvements.
+
+Some school newspapers:  
+- [https://true.publico.pt/ae-smb](https://true.publico.pt/ae-smb)
+- [https://true.publico.pt/esqm-quinta-news](https://true.publico.pt/esqm-quinta-news)
 
 **Tech Stack:** React · Node.js · Strapi · MongoDB
 
