@@ -28,7 +28,7 @@ I implemented new features, migrated the entire user base from the legacy platfo
 
 ---
 
-## 🔶 3. TRUE — School Newspaper CMS (200+ schools, 1,300+ users)
+## 🔶 3. TRUE — School Newspaper CMS (200+ schools, 1,900+ users)
 
 A custom, easy-to-use CMS used daily by students and teachers in more than 200 schools in Portugal.  
 I contributed as a full-stack developer and technical coordinator, delivering editorial tools, dashboards, user workflows, and continuous improvements.
