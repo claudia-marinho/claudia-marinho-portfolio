@@ -9,7 +9,7 @@ Below is a selection of real-world platforms and applications I’ve helped desi
 ## 🔶 1. XReco — XR Asset Management & AI-Assisted Search
 
 A web-based platform for managing, processing and exploring 3D/XR content.  
-I developed the main application of the project and integrated backend services supporting upload workflows, multimodal similarity search, AI-generated metadata, 3D reconstruction and marketplace/licensing processes.
+I was the main contributor of the core application of the project and integrated backend services supporting upload workflows, multimodal similarity search, AI-generated metadata, 3D reconstruction and marketplace/licensing processes.
 
 **Tech Stack:** Next.js · React · TypeScript
 
